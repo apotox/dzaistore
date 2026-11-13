@@ -1,0 +1,17 @@
+{
+  "name": "dzaistore",
+  "version": "0.1.0",
+  "description": "Use top AI models and coding tools (Claude Code, etc.) with one DZ AI Store subscription.",
+  "bin": {
+    "dzaistore": "bin/dzaistore.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
